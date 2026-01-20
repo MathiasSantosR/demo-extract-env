@@ -1,1 +1,1 @@
-echo "hello!"
+env | grep GITHUB
